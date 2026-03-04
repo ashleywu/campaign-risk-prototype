@@ -1,0 +1,19 @@
+campaign_id,advertiser,budget_total,spend_to_date,start_date,end_date,daily_cap,avg_daily_spend_7d,ctr_trend,bid_level,notes_main,status_signal,creative_issue,tracking_issue,bid_issue,legal_delay,placement_issue
+C1,Vegas Tourism Board,120000,42000,2/1/2026,3/31/2026,6000,3500,flat,medium,Premium partner pacing slightly behind but no major blockers.,,0,0,0,0,0
+C2,Orlando Tourism,90000,25000,2/10/2026,3/20/2026,4000,2100,down,low,Waiting on creative assets approval,ctr declining past 5 days.,0,0,0,0,0
+C3,NYC Hotels Group,150000,110000,1/15/2026,3/15/2026,8000,7000,up,high,Strong performance,bids recently increased.,0,0,1,0,0
+C4,Hawaii Resorts,80000,15000,2/20/2026,4/30/2026,3000,900,flat,medium,Launch delayed 5 days due to legal approval.,,0,0,0,0,0
+C5,DC Tourism,60000,38000,1/25/2026,3/10/2026,3500,4200,up,high,Over pacing,budget may exhaust early.,0,0,0,0,0
+C6,LA Boutique Hotels,50000,18000,2/5/2026,3/25/2026,2500,1600,flat,medium,Flexible contract,steady delivery.,0,0,0,0,0
+C7,Miami Beach Board,70000,12000,2/15/2026,3/30/2026,3000,800,down,low,Asset refresh pending,bids too low for competitive auctions.,0,0,1,0,0
+C8,Chicago City Travel,100000,90000,1/10/2026,3/5/2026,7000,8500,up,high,Nearing completion,high ctr maintaining delivery.,0,0,0,0,0
+C9,Seattle Luxury Hotels,45000,20000,2/1/2026,4/15/2026,2000,1500,flat,medium,Stable pacing,no major issues.,0,0,0,0,0
+C10,Phoenix Resorts,75000,28000,2/1/2026,3/15/2026,3000,1900,down,low,Underperforming,tracking pixel error reported yesterday.,0,1,0,0,0
+C11,San Diego Travel,95000,65000,1/20/2026,3/20/2026,5000,5500,up,medium,Premium partner,slight over-delivery.,0,0,0,0,0
+C12,Boston Hotels Assoc,55000,14000,2/10/2026,3/10/2026,2000,1000,flat,medium,Slow ramp,limited placement eligibility.,0,0,0,0,1
+C13,Denver Tourism,65000,50000,1/20/2026,3/5/2026,3500,4200,up,high,Strong CTR,campaign likely to exceed goal.,0,0,0,0,0
+C14,Atlanta Hotel Network,40000,5000,2/25/2026,4/30/2026,2000,600,flat,medium,Newly launched,learning phase ongoing.,0,0,0,0,0
+C15,Napa Valley Board,85000,30000,2/1/2026,3/31/2026,4000,2200,down,low,Performance declining after seasonal spike.,,0,0,0,0,0
+C16,Austin Travel Board,70000,62000,1/15/2026,3/10/2026,4000,6000,up,high,Over pacing,budget nearly exhausted.,0,0,0,0,0
+C17,Salt Lake City Tourism,50000,12000,2/20/2026,3/31/2026,2500,1100,flat,medium,Launched mid-month,ramping gradually.,0,0,0,0,0
+C18,New Orleans Hotels,95000,35000,2/1/2026,3/15/2026,3000,1800,down,low,Mardi Gras spike passed,bids too low currently.,0,0,1,0,0
