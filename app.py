@@ -194,7 +194,7 @@ def main():
 
     csv_path = st.text_input(
         "Campaign CSV path",
-        value="C:/Users/peili/Downloads/hts_media_campaigns.csv",
+        value="C:/Users/peili/Documents/AdsRanking/hts_media_campaigns.csv",
         help="Point this to the campaigns test dataset.",
     )
 
