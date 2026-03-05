@@ -2,6 +2,8 @@
 
 This is a lightweight internal prototype for HTS Media to identify which campaigns are at risk of under-delivery, understand why, and see a suggested next action.
 
+**Live app:** [https://campaign-risk-prototype-v1.streamlit.app/](https://campaign-risk-prototype-v1.streamlit.app/)
+
 The core logic lives in `app.py` (Streamlit UI) and `AdsRanking.ipynb` (notebook exploration), with a small synthetic dataset in `hts_media_campaigns.csv`.
 
 ---
